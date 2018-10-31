@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="TestLoadDataNeedit" max_length="40" name="x_58872_needit_testloaddataneedit" type="collection">
+        <element attributes="import_attribute_name=Attachment,edge_encryption_enabled=true" label="Attachment" max_length="40" name="u_attachment" type="string"/>
+        <element attributes="import_attribute_name=Char1,edge_encryption_enabled=true" label="Char1" max_length="40" name="u_char1" type="string"/>
+        <element attributes="import_attribute_name=Char2,edge_encryption_enabled=true" label="Char2" max_length="40" name="u_char2" type="string"/>
+        <element attributes="import_attribute_name=URL,edge_encryption_enabled=true" label="URL" max_length="40" name="u_url" type="string"/>
+    </element>
+</database>
